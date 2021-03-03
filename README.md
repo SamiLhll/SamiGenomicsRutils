@@ -1,2 +1,2 @@
 # SamiGenomicsRutils
-R package containing a set of custom-made function to make my life easier when doing genomics data analyses
+R package featuring the custom-made functions that I had to implement for various genomics data analyses. It aims at documenting how I do things and making it easier to reproduce my code.
